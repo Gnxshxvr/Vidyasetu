@@ -2,6 +2,8 @@
 
 A comprehensive educational platform that transforms any topic into interactive flashcards, quizzes, and audio summaries. Built with React, TypeScript, and modern web technologies for an engaging gamified learning experience.
 
+https://vidyasetu-learning-platform.netlify.app/
+
 ## 🌟 Features
 
 ### 🔐 Authentication
